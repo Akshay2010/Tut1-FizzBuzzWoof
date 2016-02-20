@@ -59,7 +59,6 @@ for(i=1;i<=100;i++)
 			
 		status=0;
 	}
-
 	system("PAUSE");
 
 return 0;
