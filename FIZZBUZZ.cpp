@@ -11,7 +11,7 @@ int main()
 
 for(;i<=20;i++)
 	{
-		if((i%3 == 0) && ((i%5)==0))
+		if((i%3 == 0) && ((i%5)==0) )
 		{
 			cout<<"Fizzbuzz"<<endl;
 			bool status =1;
